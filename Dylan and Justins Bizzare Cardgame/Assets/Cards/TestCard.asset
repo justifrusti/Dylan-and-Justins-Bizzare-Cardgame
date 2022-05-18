@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80e83d174ecd410489ba7136a3f4f476, type: 3}
+  m_Name: TestCard
+  m_EditorClassIdentifier: 
+  cardName: Yeetus
+  cardHP: 10
+  cardDMG: 10
+  cardCost: 10
+  cardObj: {fileID: 4948653932178999218, guid: d0bd49636ac05f64ba836ab294ad5bea, type: 3}
